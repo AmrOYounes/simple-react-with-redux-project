@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../assets/company-concept-creative-7369.jpg');
+    background-size: cover;
+    background-repeat: none;
+    opacity: 0.8;
+}
+
+.App {
+    text-align: center;
+    padding: 5%;
+
+
+}
+
+.right-button {
+    cursor: pointer;
+    float: right;
+}
+
+.list-item {
+    display: inline-block;
+
+}
+
+.characters {
+    display: inline-block;
+
+}
+
+.heros {
+    display: inline-block;
+
+}
+
+.hero-buttons {
+    float: right;
+}
+
+.stats {
+
+    float: right;
+}
+

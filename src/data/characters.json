@@ -1,0 +1,72 @@
+[
+{
+"id": 0,
+"name": "html",
+"strength": 10,
+"intelligence": 7,
+"speed": 9
+},
+{
+"id": 1,
+"name": "css",
+"strength": 10,
+"intelligence": 10,
+"speed": 6
+},
+{
+"id": 2,
+"name": "javascript",
+"strength": 10,
+"intelligence": 9,
+"speed": 7
+},
+{
+"id": 3,
+"name": "jquery",
+"strength": 10,
+"intelligence": 6,
+"speed": 10
+},
+{
+"id": 4,
+"name": "sass",
+"strength": 10,
+"intelligence": 8,
+"speed": 7
+},
+{
+"id": 5,
+"name": "gulpjs",
+"strength": 10,
+"intelligence": 7,
+"speed": 8
+},
+{
+"id": 6,
+"name": "knowlge in server side",
+"strength":10,
+"intelligence": 8,
+"speed": 6
+},
+{
+"id": 7,
+"name": "webpack",
+"strength": 10,
+"intelligence": 9,
+"speed": 7
+},
+{
+"id": 8,
+"name": "react",
+"strength": 10,
+"intelligence": 8,
+"speed": 8
+},
+{
+"id": 9,
+"name": "redux",
+"strength": 10,
+"intelligence": 9,
+"speed": 7
+}
+]
